@@ -12,7 +12,7 @@ Install libraries and dependencies
 ```
 
 ## Download Best Model
-Download metadata [Google Drive](https://drive.google.com/drive/folders/12C1byjELvAvUYm7Z9_vDidbcD9bjRXBH?usp=share_link) for spacy_blank best model and put them into the current folder (spacy_en_core_web_trf).
+Download metadata [Google Drive](https://drive.google.com/drive/folders/12C1byjELvAvUYm7Z9_vDidbcD9bjRXBH?usp=share_link) for spacy_en_core_web_trf best model and put them into the current folder (spacy_en_core_web_trf).
 ## Usage/Examples
 
 ### Training (Optional)
