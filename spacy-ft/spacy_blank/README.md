@@ -8,8 +8,10 @@ Python 3.10
 Install libraries and dependencies
 
 ```python
-  pip install -r requirements.txt
+  pip install spacy==3.6.0 spacy-transformers==1.2.5
 ```
+
+It is not needed to download any Spacy Base Model
 
 ## Download Best Model
 Download metadata [Google Drive](https://drive.google.com/drive/folders/1rgWAQ6NWk3JCXSk1RxN8uCOgLobVG1X_?usp=drive_link) for spacy_blank best model and put them into the current folder (spacy_blank).

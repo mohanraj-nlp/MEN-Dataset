@@ -8,7 +8,12 @@ Python 3.10
 Install libraries and dependencies
 
 ```python
-  pip install -r requirements.txt
+  pip install spacy==3.6.0 spacy-transformers==1.2.5
+```
+
+Install Spacy Base Model
+```python
+  python -m spacy download en_core_web_sm
 ```
 
 ## Download Best Model
