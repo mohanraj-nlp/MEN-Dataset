@@ -1,0 +1,102 @@
+Relation Label
+head of government
+country
+place of birth
+place of death
+father
+mother
+spouse
+country of citizenship
+continent
+head of state
+capital
+official language
+position held
+child
+author
+director
+screenwriter
+educated at
+composer
+occupation
+founded by
+league
+place of burial
+publisher
+maintained by
+owned by
+operator
+named after
+cast member
+producer
+award received
+chief executive officer
+creator
+ethnic group
+performer
+manufacturer
+developer
+legislative body
+executive body
+record label
+production company
+location
+place of publication
+part of
+military rank
+member of
+chairperson
+country of origin
+diplomatic relation
+residence
+organizer
+characters
+lyrics by
+participant
+given name
+location of formation
+parent organization
+significant event
+authority
+sponsor
+applies to jurisdiction
+director / manager
+product or material produced
+student of
+territory claimed by
+winner
+replaced by
+capital of
+"languages spoken, written or signed"
+present in work
+country for sport
+represented by
+investor
+intended public
+partnership with
+statistical leader
+board member
+sibling
+stepparent
+candidacy in election
+coach of sports team
+subsidiary
+religion
+NO_RELATION
+Physical.Located
+Physical.Near
+Part-Whole.Geo
+Part-Whole.Subsidary
+Per-Social.Business
+Per-Social.Family
+Per-Social.Lasting
+Org-Aff.Employment
+Org-Aff.Ownership
+Org-Aff.Founder
+Org-Aff.Student-Alum
+Org-Aff.Sports-Affiliation
+Org-Aff.Shareholder
+Org-Aff.Membership
+Agent-Artifact.UOIM
+Gen-Aff.CRRE
+Gen-Aff.Loc-Origin
