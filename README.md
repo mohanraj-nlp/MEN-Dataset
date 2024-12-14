@@ -1,7 +1,7 @@
 # MEN-Dataset
 (M)alaysian (E)nglish (N)ews Dataset with Annotated Entity and Relations. 
 
-Happy to share that the paper is accepted in LREC-COLING 2024 <a href="https://aclanthology.org/2024.lrec-main.959/" target="_blank">arXiv</a>
+Happy to share that the paper is accepted in LREC-COLING 2024 <a href="https://aclanthology.org/2024.lrec-main.959/" target="_blank">ACL Anthology</a>
 # Description
 The Dataset includes 200 Malaysian English News Article with Human Annotated Entities and Relations. 
 
